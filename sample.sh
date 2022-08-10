@@ -1,2 +1,3 @@
 echo "this is my first job'
-echo "this dit is 'pwd'"
+echo "this server name is 'hostname'"
+echo "this is dir 'pwd'"
